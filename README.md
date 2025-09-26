@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: João Vítor Rodrigues da Silva
+Matricula: 905416
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de Inspeção](images/1.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela do Projeto Replit](images/2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
